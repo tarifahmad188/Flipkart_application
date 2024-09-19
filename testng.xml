@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="flipkart_test.Login_test"/>
+      <class name="flipkart_test.order_test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
