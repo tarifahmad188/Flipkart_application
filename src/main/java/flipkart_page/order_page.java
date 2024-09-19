@@ -24,9 +24,6 @@ public class order_page extends BaseLibrary
 	private WebElement selectmobile;
 	
 	
-	//for git
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]")
-	private WebElement selectmobile1;
 	
 	
 	public void clickonSearch()

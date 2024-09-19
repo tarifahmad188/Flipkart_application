@@ -10,7 +10,6 @@ public class Login_page extends BaseLibrary
 		driver.getTitle();
 	}
 	
-	
-	// git tutorial
+	//kjghkjdhrd
 
 }
