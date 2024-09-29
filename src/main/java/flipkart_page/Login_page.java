@@ -10,6 +10,5 @@ public class Login_page extends BaseLibrary
 		driver.getTitle();
 	}
 	
-	//kjghkjdhrd
-
+	//12234244
 }
