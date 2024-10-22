@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="flipkart_test.order_test">
+      <class name="flipkart_test.Login_test">
         <methods>
           <include name="getLaunchUrl"/>
-          <include name="selectMobile"/>
+          <include name="getTitle_flipkart"/>
         </methods>
-      </class> <!-- flipkart_test.order_test -->
+      </class> <!-- flipkart_test.Login_test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
