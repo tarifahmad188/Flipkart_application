@@ -6,5 +6,9 @@ public class demoForGit {
 	
 	//this is the power of money.
 	//my name is john
+   //23pkrero2l
+	//wefelf
+	//rfewe
+	
 // you are the king 
 }
